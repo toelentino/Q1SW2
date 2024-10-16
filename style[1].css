@@ -1,0 +1,29 @@
+.container1{
+	background-color: #8a7762;
+}
+
+.form1{
+	background-color: #95b3cc;
+	width:450px;
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+	
+}
+
+#submit{
+	background-color:#594a39;
+	color:white;
+}
+label{
+	font-style: italic;
+	font-size: 18px;
+	font-family: courier;
+
+}
+
+body{
+	background-image:url(https://i.imgur.com/dRPxOBr.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
